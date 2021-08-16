@@ -19,6 +19,9 @@
     "env": [
       "jest",
       "browser"
+    ],
+    "ignore": [
+      "/public/**/*.js"
     ]
   },
   "devDependencies": {
